@@ -1,7 +1,7 @@
 //	Titile: Simple bots breed social punishment in humans
 //	Authors: Chen Shen, Zhixue He, Lei Shi, Zhen Wang, Jun Tanimoto
 //  Source code for simulation on the grid lattice network
-//	Corresponding: shi lei65@hotmail.com (L.S.);
+//	Corresponding: shi_lei65@hotmail.com (L.S.);
 //  w-zhen@nwpu.edu.cn (Z.W.);
 //  tanimoto@cm.kyushu-u.ac.jp (J.T.);
 
